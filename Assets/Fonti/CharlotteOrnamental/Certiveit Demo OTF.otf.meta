@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8a276e4dd25ede549aee3ccb210a73ae
+timeCreated: 1682498114
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Certiveit Demo
+  fontNames:
+  - Certiveit Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
