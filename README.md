@@ -13,9 +13,9 @@ Projekts, kura ietveros apgusim UI elementu veidosanu un darbosanos ar tiem, tem
 - [x] Toggle coup komponentes lietojums
 - [x] Drop Down elementa lietojums
 - [x] Slider elementu lietojums
-- [ ] Audoi source integresana aina
-- [ ] Scroll wiev lietosana
-- [ ] Drag and Drop funkcionalitates ieviesana
-- [ ] Parslegsanas starp ainam
-- [ ] Objektu generesana
-- [ ] Projekta sagatavosana darbinasanai no darbavirsmas (.exe)
+- [x] Audio source integresana aina
+- [x] Scroll wiev lietosana
+- [x] Drag and Drop funkcionalitates ieviesana
+- [x] Parslegsanas starp ainam
+- [x] Objektu generesana
+- [x] Projekta sagatavosana darbinasanai no darbavirsmas (.exe)
